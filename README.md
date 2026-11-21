@@ -4,6 +4,8 @@ A clean, responsive Pomodoro focus timer with customizable intervals, sound noti
 
 **[→ Try it live](https://dacheson.github.io/pomodoro-timer/)**
 
+[中文使用说明](docs/中文使用说明.md)
+
 ![A focus session running, showing the countdown ring and mode tabs](docs/screenshot.png)
 
 ## Features
